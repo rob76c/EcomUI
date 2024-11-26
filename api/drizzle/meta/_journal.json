@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1732054662850,
+      "tag": "createProductTable",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1732129629202,
+      "tag": "createUsersTable",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1732160376303,
+      "tag": "0002_aspiring_puppet_master",
+      "breakpoints": true
+    }
+  ]
+}

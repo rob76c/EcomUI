@@ -1,0 +1,1 @@
+Api: If building with npm run dev does not work use : "NODE_ENV=dev node --import=tsx --watch --env-file=.env src/index.ts"
